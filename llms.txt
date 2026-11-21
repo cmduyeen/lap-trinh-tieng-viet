@@ -1,0 +1,14 @@
+# Lập Trình Tiếng Việt — Bộ công cụ học lập trình 100% tiếng Việt
+
+> Bộ công cụ mã nguồn mở miễn phí giúp trẻ em và người mới bắt đầu tại Việt Nam học Terminal, Python, Git và GitHub bằng lệnh tiếng Việt trước khi chuyển sang lệnh gốc chuẩn quốc tế.
+
+- [Trang chủ Hub (Tiếng Việt)](README.md)
+- [English Guide](README.en.md)
+- [Windows All-in-One Installer](install.ps1)
+- [Blog & Tools](https://cmduyeen.github.io/vi/tools/)
+
+## Công cụ thành phần
+- `vwt` ([terminal-tieng-viet](https://github.com/cmduyeen/terminal-tieng-viet)): Lệnh PowerShell / Windows Terminal tiếng Việt an toàn, tìm kiếm không dấu, xóa vào Thùng rác.
+- `vpy` & `vide` ([python-tieng-viet](https://github.com/cmduyeen/python-tieng-viet)): Viết code Python bằng từ khóa tiếng Việt (`.vpy`), dịch lỗi Traceback sang tiếng Việt, kèm IDE `vide`.
+- `vgit` ([git-tieng-viet](https://github.com/cmduyeen/git-tieng-viet)): Lệnh Git tiếng Việt kèm Chế độ Cầu nối hiển thị lệnh `git` gốc.
+- `vgh` ([github-tieng-viet](https://github.com/cmduyeen/github-tieng-viet)): Lệnh GitHub CLI (`gh`) tiếng Việt để tạo repo, Pull Request và Issue từ terminal.
