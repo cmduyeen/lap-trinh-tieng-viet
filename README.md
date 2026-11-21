@@ -35,7 +35,7 @@ Sau khi cài xong, mở lại PowerShell và bạn có sẵn cả 5 lệnh: `vwt
 | Bước | Công cụ | Làm gì? | Repo chính thức |
 | :---: | :--- | :--- | :--- |
 | **1** | **`vwt`** | Tạo thư mục, tìm file không dấu, dọn dẹp an toàn trên Terminal | [cmduyeen/terminal-tieng-viet](https://github.com/cmduyeen/terminal-tieng-viet) |
-| **2** | **`vpy` & `vide`** | Viết code Python bằng tiếng Việt (`.vpy`), dịch lỗi & mở IDE `vide` | [cmduyeen/python-tieng-viet](https://github.com/cmduyeen/python-tieng-viet) |
+| **2** | **`vpy` & `vide`** | Viết code Python bằng tiếng Việt (`.vpy`), dịch lỗi & mở IDE `vide` ([Thử online](https://cmduyeen.github.io/python-tieng-viet/)) | [cmduyeen/python-tieng-viet](https://github.com/cmduyeen/python-tieng-viet) |
 | **3** | **`vgit`** | Lưu lịch sử code (`vgit luu`) và học lệnh Git gốc | [cmduyeen/git-tieng-viet](https://github.com/cmduyeen/git-tieng-viet) |
 | **4** | **`vgh`** | Tạo repo, Pull Request và Issue trên GitHub ngay từ terminal | [cmduyeen/github-tieng-viet](https://github.com/cmduyeen/github-tieng-viet) |
 
